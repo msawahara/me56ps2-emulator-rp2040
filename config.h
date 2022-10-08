@@ -20,7 +20,7 @@ namespace config {
     constexpr uint16_t default_port = 10023;
 
     // ログ出力を有効にする
-    constexpr bool enable_log = true;
+    constexpr bool enable_log = false;
 
     // ログ出力待ち受けポート (デバッグ用)
     constexpr uint16_t log_listen_port = 23;
