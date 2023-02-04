@@ -33,4 +33,10 @@ namespace config {
 
     // 非アクティブ時の通信間隔
     constexpr int report_interval_ms = 40;
+
+    // 再送間隔 (0.1ms単位)
+    constexpr uint16_t retry_time_value = 2000;
+
+    // 再送回数
+    constexpr uint8_t retry_count = 7;
 }
