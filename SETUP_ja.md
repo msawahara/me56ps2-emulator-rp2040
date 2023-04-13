@@ -32,5 +32,6 @@
   - 「Show all ports」にチェックを入れる
   - 「UF2 Board UF2 Devices」を選ぶ
 - OKを押す
+- メニューから「Tools」→「USB Stack」→「No USB」を選ぶ (表示が無い場合はこの手順を飛ばしてください)
 - メニューから「Sketch」→「Upload」を選び、書き込みを開始する
 - 「Done Uploading.」「Wrote xxxxxx bytes to X:/NEW.UF2」などと表示されたら、書き込み完了
