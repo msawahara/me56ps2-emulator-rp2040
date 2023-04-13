@@ -4,10 +4,10 @@
 This software is a port of [me56ps2-emulator](https://github.com/msawahara/me56ps2-emulator) for use with WIZnet W5500-EVB-PICO.
 
 ## Setup instructions
-See [SETUP_en.md](SETUP_en.md).
+See [SETUP.md](SETUP.md).
 
 ## Setting
-See [CONFIGURATION_en.md](CONFIGURATION_en.md).
+See [CONFIGURATION.md](CONFIGURATION.md).
 
 ## Specify connection destination
 You can specify an IP address instead of a phone number when connecting a modem. <br>
