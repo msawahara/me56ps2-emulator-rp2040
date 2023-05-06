@@ -1,6 +1,15 @@
 #include <IPAddress.h>
 
 namespace config {
+    // WiFi
+    namespace wifi {
+      // SSID
+      const char *ssid = "hoge";
+
+      // WPA Pre-Shared Key (passphrase)
+      const char *passphrase = "fuga";
+    }
+
     // DHCPでアドレスを設定する場合: true
     // 静的IPアドレスを設定する場合: false
     constexpr bool use_dhcp = true;
